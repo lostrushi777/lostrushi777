@@ -2,7 +2,7 @@
   <img src="https://github.com/lostrushi777/imgs/raw/main/BANNER2.jpg?raw=true"/> 
 </p> 
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+<img alt="Static Badge" src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge">
 
 <img align="left" width="350" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/> 
 <p align="center"> test
