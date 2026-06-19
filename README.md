@@ -2,7 +2,7 @@
   <img src="https://github.com/lostrushi777/imgs/raw/main/BANNER2.jpg?raw=true" width = 750/>
 </p>
 
-<img align="left" width="300" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/>
+<img align="left" width="500" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/>
 
 <p align="center">
 test
