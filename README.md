@@ -10,8 +10,8 @@
 &nbsp;
 >[!CAUTION]
 > `ENTERING "UNIT-LUCY_01", UNAUTHORIZED PERSONNEL WILL BE PROSECUTED AND EXECUTED UPON CONTINUING. DISCRETION IS ADVISED.`
-
-&nbsp;<img align="left" width="500" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/> 
+&nbsp;
+<img align="left" width="500" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/> 
 <p align="center"> Who is Lucy?
 </p> 
 
