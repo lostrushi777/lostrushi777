@@ -40,6 +40,9 @@ I'm continuously expanding my knowledge and gaining hands-on experience with the
 ![Linux](https://img.shields.io/badge/linux-032d96?style=for-the-badge&logo=linux&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/javascript-%23000001.svg?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF) ![Bash Script](https://img.shields.io/badge/bash_script-032d96.svg?style=for-the-badge&logo=gnu-bash&logoColor=ffffff) ![Python](https://img.shields.io/badge/python-%23000001?style=for-the-badge&logo=python&logoColor=ffffff) ![AWS](https://img.shields.io/badge/AWS-%23032d96.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23000001.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23032d96.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%23000001.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-032d96.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23000001.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%23032d96.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23000001?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 </div>
+&nbsp;
+
+## _STATISTICS_
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lostrushi777&bg_color=000000&color=ffffff&line=032d96&point=032d96&area=true&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
