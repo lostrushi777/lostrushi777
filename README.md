@@ -12,9 +12,9 @@
 </p> 
 
 I'm an aspiring software developer with a strong passion for 
-<pre>
+```bash```
 backend development 
-</pre>
+```
 and building reliable, scalable applications. My goal is to become a DevOps Engineer, combining software development with automation, infrastructure management, and cloud technologies.
 
 I enjoy developing applications and websites, solving complex problems, troubleshooting issues, and collaborating with others to create efficient solutions. I'm always looking for opportunities to learn, improve my skills, and contribute to meaningful projects.
