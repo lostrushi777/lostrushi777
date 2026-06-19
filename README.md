@@ -24,11 +24,12 @@ I enjoy developing `applications and websites, solving complex problems, trouble
 
 I'm continuously expanding my knowledge and gaining hands-on experience with the technologies that `power modern backend systems and DevOps workflows.` One of the most rewarding parts of development for me is `troubleshooting issues and uncovering their root causes.` Rather than simply applying a fix, I like to understand `why` a problem occurred and what can be learned from it. I believe every challenge is an opportunity to `improve`, expand my knowledge, and `build more reliable solutions.`
 
-<div align="center"> {
+<div align="center">
   
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23032d96.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/lostrushi777) [![email](https://img.shields.io/badge/Email-000001?style=for-the-badge&logo=proton&logoColor=white)](mailto:lostrushi777@proton.me) 
 <div/>
-}
+
+
 
 >[!CAUTION]
 > `YOU ARE ABOUT TO ENTER THE CPU OF "UNIT-LUCY_01", UNAUTHORIZED PERSONNEL WILL BE PROSECUTED AND EXECUTED UPON CONTINUING. DISCRETION IS ADVISED.`
