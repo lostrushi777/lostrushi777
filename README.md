@@ -7,7 +7,7 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/lostrushi?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=%23000001&color=%23032d96">  
 </p>
 
->[!WARNING]
+>[!WARNING?"style=flat-square"]
 > ENTERING THE MAINFRAME, UNAUTHORIZED PERSONNEL WILL BE PROSECUTED AND EXECUTED UPON CONTINUING. DISCRETION IS ADVISED.
 
 <img align="left" width="500" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/> 
