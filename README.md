@@ -4,9 +4,12 @@
 
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/lostrushi777?style=for-the-badge&logo=github&labelColor=%23000001&color=%23032d96">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/lostrushi?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=%23000001&color=%23032d96">
-
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/lostrushi?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=%23000001&color=%23032d96">  
 </p>
+
+>[!WARNING]
+> Entering this mainframe without authorithy is punishable and will be prosecuted. EXIT NOW
+
 <img align="left" width="500" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/> 
 <p align="center"> Who is Lucy?
 </p> 
@@ -19,4 +22,4 @@ I enjoy developing `applications and websites, solving complex problems, trouble
 I'm continuously expanding my knowledge and gaining hands-on experience with the technologies that `power modern backend systems and DevOps workflows.` One of the most rewarding parts of development for me is `troubleshooting issues and uncovering their root causes.` Rather than simply applying a fix, I like to understand `why` a problem occurred and what can be learned from it. I believe every challenge is an opportunity to `improve`, expand my knowledge, and `build more reliable solutions.`
 
 >[!WARNING]
->test
+> You have entered the 
