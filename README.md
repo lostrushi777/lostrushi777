@@ -7,11 +7,12 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/lostrushi?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=%23000001&color=%23032d96">
 
 </p>
-
 <img align="left" width="500" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/> 
 <p align="center"> Who is Lucy?
 </p> 
 
-I'm an aspiring software developer with a strong passion for backend development and building reliable, scalable applications. My goal is to become a DevOps Engineer, combining software development with automation, infrastructure management, and cloud technologies.
+</p>
+&nbsp;&nbsp;&nbsp;&nbsp;I'm an aspiring software developer with a strong passion for backend development and building reliable, scalable applications. My goal is to become a DevOps Engineer, combining software development with automation, infrastructure management, and cloud technologies.
 
 I enjoy developing applications and websites, solving complex problems, troubleshooting issues, and collaborating with others to create efficient solutions. I'm always looking for opportunities to learn, improve my skills, and contribute to meaningful projects.
+</p>
