@@ -44,5 +44,5 @@ I'm continuously expanding my knowledge and gaining hands-on experience with the
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lostrushi777&bg_color=000000&color=ffffff&line=032d96&point=032d96&area=true&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lostrushi777&hide_current_streak=false&hide_longest_streak=false&card_width=420)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lostrushi777&card_width=420)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lostrushi777&hide_current_streak=false&hide_longest_streak=false&card_width=421)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lostrushi777&card_width=421)](https://github.com/anuraghazra/github-readme-stats)
 </div>
