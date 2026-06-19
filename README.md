@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lostrushi777/imgs/raw/main/BANNER2.jpg?raw=true" width = 500/>
+  <img src="https://github.com/lostrushi777/imgs/raw/main/BANNER2.jpg?raw=true" width = 1000/>
 </p>
 
 <img align="left" width="300" src="https://github.com/lostrushi777/imgs/raw/main/METAL.png?raw=true"/>
