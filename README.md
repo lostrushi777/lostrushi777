@@ -4,7 +4,7 @@
 
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/lostrushi777?style=for-the-badge&logo=github&labelColor=000001&color=032d96">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/lostrushi?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=%23000001&color=%23032d96">  
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/lostrushi777?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=%23000001&color=%23032d96">  
 </p>
 
 &nbsp;
