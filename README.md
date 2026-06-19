@@ -41,5 +41,5 @@ I'm continuously expanding my knowledge and gaining hands-on experience with the
 
 </div>
 
-![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lostrushi777&bg_color=000000%border_color=ffffff&color=ffffff&title_color=ffffff&line=032d96&point=032d96)
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lostrushi777&bg_color=000001%border_color=ffffff&color=ffffff&title_color=ffffff&line=032d96&point=032d96)
 
