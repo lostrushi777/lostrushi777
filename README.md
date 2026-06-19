@@ -9,6 +9,7 @@
 </p>
 <img align="left" width="575" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/> 
 <p align="center"> Who is Lucy?
+  
   pre
 </p> 
 
