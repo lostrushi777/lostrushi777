@@ -2,6 +2,10 @@
   <img src="https://github.com/lostrushi777/imgs/raw/main/BANNER2.jpg?raw=true"/> 
 </p> 
 
+<a href="https://github.com">
+  <img src="https://shields.io" alt="Follow on GitHub" />
+</a>
+
 <img align="left" width="400" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/> 
 <p align="center"> test
 </p> 
