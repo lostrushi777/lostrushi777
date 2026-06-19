@@ -41,6 +41,4 @@ I'm continuously expanding my knowledge and gaining hands-on experience with the
 
 </div>
 
-![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lostrushi777&border_color=ffffff&username=lostrushi777&bg_color=000000&color=ffffff&line=032d96&point=032d96&area=truearea_color=000001&area=true)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lostrushi777&bg_color=000000&color=ffffff&line=032d96&point=032d96&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lostrushi777&bg_color=000000&color=ffffff&line=032d96&point=032d96&area=true&)](https://github.com/ashutosh00710/github-readme-activity-graph)
