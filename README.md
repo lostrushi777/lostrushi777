@@ -7,7 +7,7 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/lostrushi?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=%23000001&color=%23032d96">
 
 </p>
-<img align="left" width="545" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/> 
+<img align="left" width="575" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/> 
 <p align="center"> Who is Lucy?
 </p> 
 
