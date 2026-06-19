@@ -31,7 +31,6 @@ I'm continuously expanding my knowledge and gaining hands-on experience with the
 <div/>
 
 &nbsp;
-
 >[!CAUTION]
 > `YOU ARE ABOUT TO ENTER THE CPU OF "UNIT-LUCY_01", UNAUTHORIZED PERSONNEL WILL BE PROSECUTED AND EXECUTED UPON CONTINUING. DISCRETION IS ADVISED.`
 
