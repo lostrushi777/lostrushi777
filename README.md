@@ -45,5 +45,5 @@ I'm continuously expanding my knowledge and gaining hands-on experience with the
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lostrushi777&hide_current_streak=false&hide_longest_streak=false&card_width=410)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lostrushi777&card_width=410)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lostrushi777&hide_current_streak=false&hide_longest_streak=false&card_width=422)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lostrushi777&card_width=422)](https://github.com/anuraghazra/github-readme-stats)
 </div>
