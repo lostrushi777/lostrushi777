@@ -8,7 +8,7 @@
 </p>
 
 >[!WARNING]
-> Entering this mainframe without authorithy is punishable and will be prosecuted. EXIT NOW
+> ENTERING THE MAINFRAME, UNAUTHORIZED PERSONNEL WILL BE PROSECUTED AND EXECUTED UPON CONTINUING. DISCRETION IS ADVISED.
 
 <img align="left" width="500" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/> 
 <p align="center"> Who is Lucy?
