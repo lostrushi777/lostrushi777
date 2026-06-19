@@ -8,9 +8,9 @@
 
 </p>
 <img align="left" width="575" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/> 
-<p align="center"> Who is Lucy?<br/>
+<p align="center"> Who is Lucy?
+<br/>
 </p> 
-
 
 I'm an `aspiring software developer` with a strong passion for 
 `backend development and building reliable, scalable applications`. My goal is to become a `DevOps Engineer`, combining software development with `automation, infrastructure management, and cloud technologies.`
