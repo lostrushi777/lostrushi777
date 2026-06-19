@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lostrushi777/imgs/raw/main/BANNER2.jpg?raw=true" width = 750/>
+  <img src="https://github.com/lostrushi777/imgs/raw/main/BANNER2.jpg?raw=true" width = 900/>
 </p>
 
 <table>
