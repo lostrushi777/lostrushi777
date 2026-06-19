@@ -11,13 +11,10 @@
 <p align="center"> Who is Lucy?
 </p> 
 
+I'm an aspiring software developer with a strong passion for 
 </pre>
-I am an aspiring developer
-with a strong passion for
-backend development and
-DevOps engineering.
+backend development 
+</pre>
+and building reliable, scalable applications. My goal is to become a DevOps Engineer, combining software development with automation, infrastructure management, and cloud technologies.
 
-I enjoy building applications,
-websites, and automating
-workflows.
-</pre>
+I enjoy developing applications and websites, solving complex problems, troubleshooting issues, and collaborating with others to create efficient solutions. I'm always looking for opportunities to learn, improve my skills, and contribute to meaningful projects.
