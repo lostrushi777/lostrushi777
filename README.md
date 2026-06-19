@@ -3,7 +3,7 @@
 </p> 
 
 <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers?color=blue/lostrushi777?style=for-the-badge">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/lostrushi777?style=for-the-badge?color=blue">
   
 </p>
 
