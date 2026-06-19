@@ -8,7 +8,8 @@
 
 </p>
 <img align="left" width="575" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/> 
-<p align="center"<br/> Who is Lucy?
+<p align="center"> Who is Lucy?
+  pre
 </p> 
 
 I'm an `aspiring software developer` with a strong passion for 
