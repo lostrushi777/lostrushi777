@@ -23,14 +23,18 @@ I'm an `aspiring software developer` with a strong passion for
 I enjoy developing `applications and websites, solving complex problems, troubleshooting issues, and collaborating with others to create efficient solutions.` I'm always looking for opportunities to `learn, improve my skills, and contribute to meaningful projects.`
 
 I'm continuously expanding my knowledge and gaining hands-on experience with the technologies that `power modern backend systems and DevOps workflows.` One of the most rewarding parts of development for me is `troubleshooting issues and uncovering their root causes.` Rather than simply applying a fix, I like to understand `why` a problem occurred and what can be learned from it. I believe every challenge is an opportunity to `improve`, expand my knowledge, and `build more reliable solutions.`
-
+<div alighn="center">
+  
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/lostrushi777) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lostrushi777@proton.me) 
+</div>
 &nbsp;
+
 >[!CAUTION]
 > `YOU ARE ABOUT TO ENTER THE CPU OF "UNIT-LUCY_01", UNAUTHORIZED PERSONNEL WILL BE PROSECUTED AND EXECUTED UPON CONTINUING. DISCRETION IS ADVISED.`
 <div align="center">
 &nbsp;
   
-## SKILLS
+## _TECHSTACK_
 
 ![Linux](https://img.shields.io/badge/linux-032d96?style=for-the-badge&logo=linux&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/javascript-%23000001.svg?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF) ![Bash Script](https://img.shields.io/badge/bash_script-032d96.svg?style=for-the-badge&logo=gnu-bash&logoColor=ffffff) ![Python](https://img.shields.io/badge/python-%23000001?style=for-the-badge&logo=python&logoColor=ffffff) ![AWS](https://img.shields.io/badge/AWS-%23032d96.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23000001.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23032d96.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%23000001.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-032d96.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23000001.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%23032d96.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23000001?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
