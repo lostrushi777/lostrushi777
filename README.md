@@ -42,9 +42,5 @@ I'm continuously expanding my knowledge and gaining hands-on experience with the
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lostrushi777&bg_color=000000&color=ffffff&line=032d96&point=032d96&area=true&)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lostrushi777&mode=weekly)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lostrushi777)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![](https://github-readme-stats.shion.dev/api?username=lostrushi777&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=lostrushi777&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lostrushi777&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lostrushi777&mode=weekly)](https://git.io/streak-stats) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lostrushi777)](https://github.com/anuraghazra/github-readme-stats) |
