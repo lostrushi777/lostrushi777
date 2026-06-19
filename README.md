@@ -45,5 +45,5 @@ I'm continuously expanding my knowledge and gaining hands-on experience with the
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lostrushi777&hide_current_streak=false&hide_longest_streak=false&card_width=422&background=000000&border=FFFFFF&stroke=FFFFFF&ring=032D96&fire=032D96&currStreakNum=032D96&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lostrushi777&card_width=422&title_color=ffffff&text_color=032D96&icon_color=032d96&border_color=ffffff&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lostrushi777&hide_current_streak=false&hide_longest_streak=false&card_width=422&background=000000&border=FFFFFF&stroke=FFFFFF&ring=032D96&fire=032D96&currStreakNum=032D96&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lostrushi777&card_width=422&title_color=032d96&text_color=ffffff&icon_color=032d96&border_color=ffffff&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 </div>
