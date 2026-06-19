@@ -2,7 +2,8 @@
   <img src="https://github.com/lostrushi777/imgs/raw/main/BANNER2.jpg?raw=true"/> 
 </p> 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Follow-passing-brightgreen?style=for-the-badge">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/:user?style=for-the-badge">
 
 <img align="left" width="350" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/> 
 <p align="center"> test
