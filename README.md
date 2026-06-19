@@ -17,3 +17,6 @@ I'm an `aspiring software developer` with a strong passion for
 I enjoy developing `applications and websites, solving complex problems, troubleshooting issues, and collaborating with others to create efficient solutions.` I'm always looking for opportunities to `learn, improve my skills, and contribute to meaningful projects.`
 
 I'm continuously expanding my knowledge and gaining hands-on experience with the technologies that `power modern backend systems and DevOps workflows.` One of the most rewarding parts of development for me is `troubleshooting issues and uncovering their root causes.` Rather than simply applying a fix, I like to understand `why` a problem occurred and what can be learned from it. I believe every challenge is an opportunity to `improve`, expand my knowledge, and `build more reliable solutions.`
+
+[!ERROR]
+test
