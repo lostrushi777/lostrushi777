@@ -1,6 +1,7 @@
 <p align="center"> 
   <img src="https://github.com/lostrushi777/imgs/raw/main/BANNER2.jpg?raw=true"/> 
 </p> 
+badgeContent build-passing-brightgreen
 
 <img align="left" width="350" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/> 
 <p align="center"> test
