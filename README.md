@@ -12,7 +12,7 @@
 </p> 
 
 I'm an aspiring software developer with a strong passion for 
-</pre>
+<pre>
 backend development 
 </pre>
 and building reliable, scalable applications. My goal is to become a DevOps Engineer, combining software development with automation, infrastructure management, and cloud technologies.
