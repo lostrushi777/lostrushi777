@@ -42,7 +42,8 @@ I'm continuously expanding my knowledge and gaining hands-on experience with the
 </div>
 &nbsp;
 <div align="center">
-## _STATISTICS_
+
+  ## _STATISTICS_
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lostrushi777&bg_color=000000&color=ffffff&line=032d96&point=032d96&area=true&)](https://github.com/ashutosh00710/github-readme-activity-graph)
