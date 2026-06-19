@@ -2,7 +2,7 @@
   <img src="https://github.com/lostrushi777/imgs/raw/main/BANNER2.jpg?raw=true" width = 750/>
 </p>
 
-table>
+<table>
 <tr>
 <td width="50%">
 <img src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true" width="400"/>
