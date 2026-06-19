@@ -11,7 +11,7 @@
 <p align="center"> Who is Lucy?
 </p> 
 
-<pre>
+</pre>
 I am an aspiring developer
 with a strong passion for
 backend development and
