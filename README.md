@@ -11,7 +11,7 @@
 &nbsp;>[!CAUTION]
 > `ENTERING "UNIT-LUCY_01", UNAUTHORIZED PERSONNEL WILL BE PROSECUTED AND EXECUTED UPON CONTINUING. DISCRETION IS ADVISED.`
 
-<img align="left" width="500" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/> 
+&nbsp;<img align="left" width="500" src="https://github.com/lostrushi777/imgs/raw/main/METALWDIGET.jpg?raw=true"/> 
 <p align="center"> Who is Lucy?
 </p> 
 
@@ -22,5 +22,5 @@ I enjoy developing `applications and websites, solving complex problems, trouble
 
 I'm continuously expanding my knowledge and gaining hands-on experience with the technologies that `power modern backend systems and DevOps workflows.` One of the most rewarding parts of development for me is `troubleshooting issues and uncovering their root causes.` Rather than simply applying a fix, I like to understand `why` a problem occurred and what can be learned from it. I believe every challenge is an opportunity to `improve`, expand my knowledge, and `build more reliable solutions.`
 
->[!CAUTION]
+&nbsp;>[!CAUTION]
 > `YOU ARE ABOUT TO ENTER THE CPU OF "UNIT-LUCY_01", UNAUTHORIZED PERSONNEL WILL BE PROSECUTED AND EXECUTED UPON CONTINUING. DISCRETION IS ADVISED.`
