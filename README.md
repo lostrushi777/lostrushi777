@@ -26,7 +26,7 @@ I'm continuously expanding my knowledge and gaining hands-on experience with the
 
 <div align="center">
   
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/lostrushi777) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lostrushi777@proton.me) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23032d96.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/lostrushi777) [![email](https://img.shields.io/badge/Email-000001?style=for-the-badge&logo=proton&logoColor=white)](mailto:lostrushi777@proton.me) 
 
 <div/>
 &nbsp;
