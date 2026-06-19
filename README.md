@@ -41,4 +41,4 @@ I'm continuously expanding my knowledge and gaining hands-on experience with the
 
 </div>
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=lostrushi777)
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lostrushi777)
